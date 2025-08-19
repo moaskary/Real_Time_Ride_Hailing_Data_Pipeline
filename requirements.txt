@@ -1,0 +1,6 @@
+Faker==19.13.0
+kafka-python==2.0.2
+pyspark==3.5.0
+prefect==2.14.12
+griffe==0.36.0
+psycopg2-binary==2.9.9
