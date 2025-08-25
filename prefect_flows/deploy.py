@@ -35,5 +35,3 @@ if __name__ == "__main__":
     spark_deployment.apply()
     
     print("Producer deployment has been applied! You can now run it from the Prefect UI.")
-
-    # We will add the Spark job deployment here later.
