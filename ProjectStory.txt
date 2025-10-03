@@ -1,5 +1,4 @@
 "Imagine you're tasked with building a real-time analytics platform for a ride-hailing service, something like Uber or Lyft. The business needs a live dashboard that shows critical metrics like the number of trips in each city, the average fare, and so on.
-
 (The Problem & Goal) So, the challenge is clear: How do we get that real-time data from the source, transform it, and present it on a live dashboard?
 
 (The Solution - The Big Picture) I tackled this by building a streaming ETL pipeline. At its core, this pipeline moves data from the point of generation to a dashboard, all in real-time. It's designed to be robust, scalable, and easy to manage.
